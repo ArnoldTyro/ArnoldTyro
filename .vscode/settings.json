@@ -4,5 +4,13 @@
             "name": "release/test",
             "base": "develop"
         }
-    ]
+    ],
+    "gitflow4code.init": {
+        "develop": "develop",
+        "master": "main",
+        "releases": "release/",
+        "hotfixes": "hotfix/",
+        "features": "feature/",
+        "support": ""
+    }
 }
