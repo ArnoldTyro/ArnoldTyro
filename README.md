@@ -4,6 +4,6 @@ I am working at Tyro remotes on hardware and software projects for remote machin
 
 We are working towards using Git flow (https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
-V0.3.0
+V0.3.1
 
 This is a new line
